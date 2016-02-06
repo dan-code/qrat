@@ -1,6 +1,4 @@
-# QRAT
-
-QRAT - QR Authentication Tool
+# QRAT- QR Authentication Tool
 
 QRAT is a Linux implementation of the <a href="https://www.grc.com/sqrl/sqrl.htm">SQRL protocol</a>. In its initial stages it is intended as an offline authentication tool to login into a local Linux machine.
 
