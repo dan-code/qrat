@@ -1,4 +1,4 @@
-# sqrat
+# QRAT
 
 QRAT - QR Authentication Tool
 
